@@ -1,4 +1,4 @@
-# Polkadot_Substrate_Development_Bootcamp_FinalCase
+# Polkadot Substrate Development Bootcamp FinalCase
 
 Welcome to the **Web3 oluroyle project repository!** It is an opinionated language that we have built by extending the popular Rust programming language with functionality needed to make it smart contract compatible.
 
